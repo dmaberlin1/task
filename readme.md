@@ -19,3 +19,5 @@ slot_machine.php: Главный исполняемый файл приложе�
 composer require --dev phpunit/phpunit
 
 vendor/bin/phpunit
+
+composer start
